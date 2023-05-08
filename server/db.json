@@ -1,0 +1,16 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "name": "Learn RTK Query"
+        },
+        {
+            "id": 2,
+            "name": "Realize RTK Query in my toDo  APP"
+        },
+        {
+            "id": 3,
+            "name": "Continue task from clickUp"
+        }
+    ]
+}
